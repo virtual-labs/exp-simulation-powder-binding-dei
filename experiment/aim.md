@@ -1,1 +1,1 @@
-### Aim of the experiment
+### Simulation of Powder Binding / Jetting Process.
