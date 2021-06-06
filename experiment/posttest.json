@@ -12,8 +12,7 @@
 		"b": "False"
 	},
 	"correctAnswer": "b"
-}
-{
+}, {
 	"question": "3. Which of the following material may be used in Binder Jetting process:",
 	"answers": {
 		"a": "Metal powder",
@@ -22,16 +21,14 @@
 		"d": "All of the above"
 	},
 	"correctAnswer": "d"
-}
-{
+}, {
 	"question": "4. Binder Jetting process do not use any lasers. True/False",
 	"answers": {
 		"a": "False",
 		"b": "True"
 	},
 	"correctAnswer": "b"
-}
-{
+}, {
 	"question": "5. What is the function of inkjets:",
 	"answers": {
 		"a": "to recoat powder",
@@ -40,5 +37,4 @@
 		"d": "to spray the binding agent."
 	},
 	"correctAnswer": "d"
-}
-]
+}]
